@@ -1,0 +1,8 @@
+Implemented Automation using Selenium Webdriver, Java, Junit, TestNg, Intellij
+JAva as language,
+Junit for test framework,
+Intellij as text editor
+Implemented Page Object model, created pageobject pages for both home page and game page with objects and their locators, functions using the objects.
+Base page forinitialising the page object pages.
+DriverFactory to initialise Webdriver,  browser selection and its properties
+Test base with Before class and After class methods, i.e start and close of browser and navigate to the home page of the application
